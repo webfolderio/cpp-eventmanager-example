@@ -1,4 +1,4 @@
-# cpp-eventmanager-example
+# C++ eventmanager (eventbus) example
 
 An example C++ application shows how to implement event manager (eventbus) logic in your code.
 
