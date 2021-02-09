@@ -18,7 +18,7 @@ public:
     }
 
     // Make the BaseEvent polymorphism so we can use dynamic_cast to detect
-    // if it's a MouseEvent or KeyEvent
+    // if it's a StartEvent or StopEvent
     virtual ~BaseEvent() {
     }
 };
